@@ -5,16 +5,20 @@ Flowboard is a modern, full-stack team management application designed to stream
 ## 📸 Visual Overview
 
 ### 🎨 Beautiful Landing Page
-![Landing Page](./screenshots/landing.png)
+<img width="1910" height="912" alt="Screenshot 2026-05-01 191922" src="https://github.com/user-attachments/assets/930a46eb-cd28-4003-aa88-2ded39583f00" />
+
 
 ### 📊 Deep Analytics & Kanban
-![Features](./screenshots/features.png)
+<img width="1911" height="918" alt="Screenshot 2026-05-01 192220" src="https://github.com/user-attachments/assets/bf362c01-0d89-4c55-bb60-a2a6c58215ea" />
+
 
 ### 📂 Project Management
-![Project List](./screenshots/projects.png)
+<img width="1910" height="917" alt="Screenshot 2026-05-01 192126" src="https://github.com/user-attachments/assets/00aafc2e-dfaa-4b14-91a0-1281d05c4cd8" />
+
 
 ### 📈 Dynamic Dashboard
-![Dashboard](./screenshots/dashboard.png)
+<img width="1909" height="915" alt="Screenshot 2026-05-01 192030" src="https://github.com/user-attachments/assets/a76141e7-49bd-4020-8b30-129eb5365f45" />
+
 
 ## 🚀 Features
 
