@@ -53,7 +53,7 @@ public class SecurityConfig {
             .formLogin(AbstractHttpConfigurer::disable)
             .httpBasic(AbstractHttpConfigurer::disable)
             .authorizeHttpRequests(auth -> auth
-                .requestMatchers("POST /api/auth/signup", "POST /api/auth/login").permitAll()
+                .requestMatchers("/", "POST /api/auth/signup", "POST /api/auth/login").permitAll()
                 .requestMatchers("/api/auth/signup", "/api/auth/login").permitAll()
                 .requestMatchers("/actuator/health").permitAll()
                 .anyRequest().authenticated()
