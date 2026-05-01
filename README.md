@@ -2,6 +2,20 @@
 
 Flowboard is a modern, full-stack team management application designed to streamline project tracking and task collaboration. Built with a robust Java/Spring Boot backend and a dynamic React frontend, Flowboard provides a premium user experience for managing teams and projects.
 
+## 📸 Visual Overview
+
+### 🎨 Beautiful Landing Page
+![Landing Page](./screenshots/landing.png)
+
+### 📊 Deep Analytics & Kanban
+![Features](./screenshots/features.png)
+
+### 📂 Project Management
+![Project List](./screenshots/projects.png)
+
+### 📈 Dynamic Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
 ## 🚀 Features
 
 - **Project Management**: Create, update, and manage projects with ease.
